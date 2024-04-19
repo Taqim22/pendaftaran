@@ -1,0 +1,24 @@
+.jumbotron {
+    padding-top: 4rem;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    background-color: rgb(178, 252, 255);
+}
+
+#dagang {
+    padding-top: 2rem;
+    background-color: #8bffec;
+}
+
+#ternak {
+    background-color: #f3f4f5;
+}
+
+#blog {
+    background-color: #58ffd5;
+}
+
+#kontak {
+    background-color: #f3f4f5;
+}
